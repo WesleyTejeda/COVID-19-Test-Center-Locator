@@ -8,9 +8,9 @@ The COVID-19 Test Center Locator allows users to acquire addresses, phone number
 <br>
 <br>
 
-Deployed Link: https://github.com/WesleyTejeda/COVID-19-Test-Center-Locator 
+Repository Link: https://github.com/WesleyTejeda/COVID-19-Test-Center-Locator 
 <br>
-Repository Link: https://wesleytejeda.github.io/COVID-19-Test-Center-Locator/
+Deployed Link: https://wesleytejeda.github.io/COVID-19-Test-Center-Locator/
 <br>
 <br>
 
